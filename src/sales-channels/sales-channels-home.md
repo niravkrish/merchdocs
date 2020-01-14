@@ -14,3 +14,6 @@ sections:
 Magento advertising channels can simplify and centralize your ad campaign management, while sales channels can integrate your product catalog, orders, shipments, and store configurations. These powerful features empower you to increase revenue by capturing new storefront traffic and expanding sales to additional webstores.
 
 {% include grid.html sections=page.sections%}
+
+{:.bs-callout-tip}
+Check out the [Google Offer]({% link sales-channels/google-ads/promo-google.md %}) for new Google Shopping ads accounts.

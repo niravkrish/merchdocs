@@ -6,6 +6,8 @@ pages:
 - label: Channels
   url: "/sales-channels/sales-channels-home.html"
   children:
+    - label: Google Offer
+      url: "/sales-channels/google-ads/promo-google.html"
     - label: Google Shopping ads Channel
       url: "/sales-channels/google-ads/google-ad-channel.html"
       children:
