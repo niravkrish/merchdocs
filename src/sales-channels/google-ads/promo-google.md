@@ -32,4 +32,3 @@ This Google offer is valid for Google Shopping ads accounts created after <date>
 - Match credit will be applied in whole dollar increment (spend $10.51, credit $10).
 - Match credit applies only to advertising costs incurred after the initial 30-day period.
 - After match credit is applied, no notification is sent when credit is exhausted.
-- 
